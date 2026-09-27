@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group>
+        <!-- Center petal / flame of vitality -->
+        <path
+            android:fillColor="#FFF4EE"
+            android:pathData="M54,34 C57,41 62,49 62,56 C62,61 58.4,64 54,64 C49.6,64 46,61 46,56 C46,49 51,41 54,34 Z" />
+        <!-- Left inner petal -->
+        <path
+            android:fillColor="#F6C5B8"
+            android:pathData="M52,43 C46,47 40,54 41,61 C42,65 46,66 49,64 C52,62 53,55 53,49 Z" />
+        <!-- Right inner petal -->
+        <path
+            android:fillColor="#F6C5B8"
+            android:pathData="M56,43 C62,47 68,54 67,61 C66,65 62,66 59,64 C56,62 55,55 55,49 Z" />
+        <!-- Left outer blooming wing -->
+        <path
+            android:fillColor="#E599A4"
+            android:pathData="M48,51 C38,55 33,63 36,69 C38,72 43,72 47,68 C49.5,65.5 50,59 50,54 Z" />
+        <!-- Right outer blooming wing -->
+        <path
+            android:fillColor="#E599A4"
+            android:pathData="M60,51 C70,55 75,63 72,69 C70,72 65,72 61,68 C58.5,65.5 58,59 58,54 Z" />
+        <!-- Base crescent cradle -->
+        <path
+            android:fillColor="#FFEFE8"
+            android:pathData="M37,68 C42,75 66,75 71,68 C68,76 40,76 37,68 Z" />
+        <!-- Delicate upper star aura dot -->
+        <path
+            android:fillColor="#FDE68A"
+            android:pathData="M54,26 C55.5,27.5 56.5,28.5 58,30 C56.5,31.5 55.5,32.5 54,34 C52.5,32.5 51.5,31.5 50,30 C51.5,28.5 52.5,27.5 54,26 Z" />
+    </group>
+</vector>
